@@ -5,8 +5,8 @@
 **Scope:** API-layer only — no value-moving transfers were signed or broadcast; devnet
 only; all test data (webhooks) cleaned up.
 
-- **Repo:** https://github.com/ARTON-KZ/Claude-mobile-
-- **PR (full diff):** https://github.com/ARTON-KZ/Claude-mobile-/pull/1
+- **Repo:** https://github.com/ARTON-KZ/multihopper-agentic-flow-security
+- **PR (full diff):** https://github.com/ARTON-KZ/multihopper-agentic-flow-security/pull/1
 - **Detailed write-up:** [`report/findings.md`](report/findings.md) · **Flow analysis:** [`report/agentic-flow-analysis.md`](report/agentic-flow-analysis.md) · **PoCs:** [`pocs/`](pocs/)
 
 ## Findings at a glance

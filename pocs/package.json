@@ -1,0 +1,12 @@
+{
+  "name": "multihopper-pocs",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Reproducible PoCs for MultiHopper agentic-flow security findings (devnet)",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "bs58": "^6.0.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
